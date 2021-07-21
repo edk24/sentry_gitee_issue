@@ -1,0 +1,10 @@
+{
+    "server":{
+        "port":"8081"
+    },
+    "gitee":{
+        "owner":"组织、用户名路径",
+        "repo":"仓库名称",
+        "access_token":"你的access_token  https://gitee.com/api/v5/swagger#/postV5ReposOwnerRepoIssuesNumberLabels  右上角申请获得"
+    }
+}
