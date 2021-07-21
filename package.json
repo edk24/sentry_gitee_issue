@@ -1,0 +1,15 @@
+{
+  "name": "sentry_webhook",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"node index.js"
+  },
+  "author": "剑齿虎",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
